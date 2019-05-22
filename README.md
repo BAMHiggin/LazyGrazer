@@ -20,7 +20,6 @@ LazyGrazer provides users with easy options to find dinner fast. Simply type a c
 - JS/jQuery
 - Plotly Data Visualization Library
 
-### Demo
 
 
 
